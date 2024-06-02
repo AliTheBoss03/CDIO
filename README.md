@@ -16,3 +16,4 @@ The task we were given is to build an EV3 robot that is able to navigate a game 
 
 # Project Overview
 Our goal is to design, build, and program an autonomous EV3 robot capable of collecting as many ping pong balls as possible within a defined area, without disrupting the setup of the field. The field is approximately 180 x 120 cm with a known obstacle and a flamingo egg that the robot must avoid moving. The robot should be fully autonomous once started and should complete the task within 8 minutes.
+
